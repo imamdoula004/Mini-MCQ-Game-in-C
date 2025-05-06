@@ -1,7 +1,7 @@
 # Mini-MCQ-Game-in-C
 
 Description: 
-This was for a project for my university course called Structured Programming Language (CSE1101) and was coded in the programming language C.
+This game was for a project for my university course called Structured Programming Language (CSE1101) and was coded in the programming language C.
 
 Hello! 
 To see the code, click on MCQ Game.c in the main folder. 
